@@ -3,31 +3,18 @@
 Welcome to my GitHub profile!
 
 ## About Me 🚀
-I'm a passionate software developer who loves exploring new technologies and building innovative solutions. I have a keen interest in [Your Specialization or Area of Interest]. 
+I am a Machine Learning Engineer and Data Science & AI Specialist with a strong foundation in Electrical & Electronics Engineering from Middle East Technical University. My journey in the tech world spans roles from a Research Intern to a Software Developer, with a focus on Machine Learning, Robotics, and Web Development. 
+
+I thrive in environments that require a multidisciplinary approach, blending AI, robotics, and software development to create innovative solutions. My expertise in AI includes deep learning, NLP, and computer vision, and I'm skilled in languages and frameworks like Python, PyTorch, YOLO, and Django. In robotics, I have hands-on experience with ROS2, Gazebo, and various robotic control systems. My web development skills encompass technologies like HTML, CSS, JavaScript, and React.
 
 ## My GitHub Stats 📈
 
-![Muhammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=sezer-muhammed&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sezer-muhammed&theme=radical)
+| <a href="https://github.com/sezer-muhammed"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sezer-muhammed&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Muhammed's GitHub stats" /></a> | <a href="https://github.com/sezer-muhammed"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sezer-muhammed&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sezer-muhammed&color=brightgreen)
 
-![Muhammed's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sezer-muhammed&theme=rogue)
-
-## Languages and Tools 🛠️
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sezer-muhammed&layout=compact&theme=radical)
-
-<!-- You can add specific languages and tools here -->
-
 ## Connect with Me 🌐
-- LinkedIn: [Your LinkedIn Profile](LinkedIn URL)
-- Twitter: [Your Twitter Handle](Twitter URL)
-- Email: [Your Email](mailto:your-email@example.com)
-
-## My Recent Projects 💼
-
-<!-- You can list your projects with links here -->
-
-Thank you for visiting my profile! Feel free to fork or star my repositories if you find something interesting.
+- LinkedIn: [muhammed-sezer-160428208](https://www.linkedin.com/in/muhammed-sezer-160428208)
+- Email: [muhammedsezer12@gmail.com](mailto:muhammedsezer12@gmail.com)
+- GitHub: [@sezer-muhammed](https://github.com/sezer-muhammed)
