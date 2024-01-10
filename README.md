@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there, I'm Muhammed Sezer 👋
 
-<!--
-**sezer-muhammed/sezer-muhammed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me 🚀
+I'm a passionate software developer who loves exploring new technologies and building innovative solutions. I have a keen interest in [Your Specialization or Area of Interest]. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My GitHub Stats 📈
+
+![Muhammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=sezer-muhammed&show_icons=true&theme=radical)
+
+## Languages and Tools 🛠️
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sezer-muhammed&layout=compact&theme=radical)
