@@ -18,6 +18,4 @@ My web development skills encompass technologies like HTML, CSS, JavaScript, and
 ![Profile Views](https://komarev.com/ghpvc/?username=sezer-muhammed&color=brightgreen)
 
 ## Connect with Me 🌐
-- LinkedIn: [muhammed-sezer-160428208](https://www.linkedin.com/in/muhammed-sezer-160428208)
-- Email: [muhammedsezer12@gmail.com](mailto:muhammedsezer12@gmail.com)
-- GitHub: [@sezer-muhammed](https://github.com/sezer-muhammed)
+[Muhammed Sezer](https://tr.linkedin.com/in/imsezer/tr?trk=profile-badge)
