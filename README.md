@@ -1,11 +1,14 @@
 # Hi there, I'm Muhammed Sezer 👋
 
-Welcome to my GitHub profile!
+I am a Machine Learning Engineer and Data Science & AI Specialist.
 
-## About Me 🚀
-I am a Machine Learning Engineer and Data Science & AI Specialist with a strong foundation in Electrical & Electronics Engineering from Middle East Technical University. My journey in the tech world spans roles from a Research Intern to a Software Developer, with a focus on Machine Learning, Robotics, and Web Development. 
+I thrive in environments that require a multidisciplinary approach, blending AI, robotics, and software development to create innovative solutions. 
 
-I thrive in environments that require a multidisciplinary approach, blending AI, robotics, and software development to create innovative solutions. My expertise in AI includes deep learning, NLP, and computer vision, and I'm skilled in languages and frameworks like Python, PyTorch, YOLO, and Django. In robotics, I have hands-on experience with ROS2, Gazebo, and various robotic control systems. My web development skills encompass technologies like HTML, CSS, JavaScript, and React.
+My expertise in AI includes deep learning, NLP, and computer vision, and I'm skilled in languages and frameworks like Python, PyTorch, YOLO, and Django. 
+
+In robotics, I have hands-on experience with ROS2, Gazebo, and various robotic control systems. 
+
+My web development skills encompass technologies like HTML, CSS, JavaScript, and React.
 
 ## My GitHub Stats 📈
 
