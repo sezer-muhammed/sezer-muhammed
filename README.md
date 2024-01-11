@@ -15,7 +15,10 @@ My web development skills encompass technologies like HTML, CSS, JavaScript, and
 | <a href="https://github.com/sezer-muhammed"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sezer-muhammed&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Muhammed's GitHub stats" /></a> | <a href="https://github.com/sezer-muhammed"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sezer-muhammed&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-![Profile Views](https://komarev.com/ghpvc/?username=sezer-muhammed&color=brightgreen)
+| Profile Views |
+|---------------|
+| ![Profile Views](https://komarev.com/ghpvc/?username=sezer-muhammed&color=brightgreen) |
+
 
 ## Connect with Me 🌐
 [Muhammed Sezer](https://tr.linkedin.com/in/imsezer/tr?trk=profile-badge)
