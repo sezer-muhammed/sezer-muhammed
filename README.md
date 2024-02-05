@@ -25,4 +25,6 @@ Looking forward to our paths crossing in this digital universe!
 
 
 ## Connect with Me 🌐
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=flat&logo=linkedin)](https://tr.linkedin.com/in/imsezer/tr)
+| LinkedIn | Sezer Sevval YouTube | IMSezer YouTube |
+|:--------:|:--------------------:|:---------------:|
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=flat&logo=linkedin)](https://tr.linkedin.com/in/imsezer/tr) | [![YouTube Channel](https://img.shields.io/badge/YouTube-Sezer%20Sevval-red?style=flat&logo=youtube)](https://www.youtube.com/@SezerSevval) | [![YouTube Channel](https://img.shields.io/badge/YouTube-IMSezer-red?style=flat&logo=youtube)](https://www.youtube.com/@IMSezer) |
