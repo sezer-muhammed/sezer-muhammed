@@ -1,4 +1,4 @@
-# Hi there, I'm Muhammed Sezer 👋
+# [Hi there, I'm Muhammed Sezer 👋](https://www.imsezer.com/)
 
 My journey in the tech world is fueled by a deep passion for Artificial Intelligence and its transformative impact on our lives.
 
@@ -26,7 +26,7 @@ Looking forward to our paths crossing in this digital universe!
 ## Connect with Me 🌐
 | LinkedIn | Sezer Sevval YouTube | IMSezer YouTube | My Personal Website |
 |:--------:|:--------------------:|:---------------:|:-------------------:|
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=flat&logo=linkedin)](https://tr.linkedin.com/in/imsezer/tr) | [![YouTube Channel](https://img.shields.io/badge/YouTube-Sezer%20Sevval-red?style=flat&logo=youtube)](https://www.youtube.com/@SezerSevval) | [![YouTube Channel](https://img.shields.io/badge/YouTube-IMSezer-red?style=flat&logo=youtube)](https://www.youtube.com/@IMSezer) | [![Personal Website](https://img.shields.io/badge/Website-Visit%20My%20Site-blue?style=flat&logo=githubpages)](https://sezer-muhammed.github.io/my-spectrum-app/) |
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=flat&logo=linkedin)](https://tr.linkedin.com/in/imsezer/tr) | [![YouTube Channel](https://img.shields.io/badge/YouTube-Sezer%20Sevval-red?style=flat&logo=youtube)](https://www.youtube.com/@SezerSevval) | [![YouTube Channel](https://img.shields.io/badge/YouTube-IMSezer-red?style=flat&logo=youtube)](https://www.youtube.com/@IMSezer) | [![Personal Website](https://img.shields.io/badge/Website-Visit%20My%20Site-blue?style=flat&logo=githubpages)](https://www.imsezer.com/) |
 
 ## Some Skills
 
