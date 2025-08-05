@@ -7,11 +7,10 @@ Outside the digital world, my heart beats for Şevval, the love of my life. Toge
 Feel free to dive into my GitHub repositories or connect with me for a chat about technology, life, and everything in between.
 
 ### Skills at a Glance
-- **AI & Machine Learning**: NLP, Transformers, CNNs, Deep Learning from Theory to Implementation
-- **Robotics**: C++, ROS2, Gazebo
-- **Web Development**: HTML, CSS, JavaScript, Django, React
-- **Entrepreneurship & Academia**: Strategic Planning, Scientific Writing, Public Speaking
-
+- **AI & Machine Learning**: Diffusers, Transformers, CNNs, Regression, and Statistics... Deep Learning from Theory to Implementation
+- **Robotics**: Python, C++, ROS2, Gazebo
+- **Web Development**: CSS, Type-JavaScript, FastApi-Django-Flask, React
+  
 Looking forward to our paths crossing in this digital universe!
 
 ## My GitHub Stats 📈
