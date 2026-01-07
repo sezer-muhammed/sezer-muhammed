@@ -27,6 +27,15 @@ Looking forward to our paths crossing in this digital universe!
 |:--------:|:--------------------:|:---------------:|:-------------------:|
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=flat&logo=linkedin)](https://tr.linkedin.com/in/imsezer/tr) | [![YouTube Channel](https://img.shields.io/badge/YouTube-Sezer%20Sevval-red?style=flat&logo=youtube)](https://www.youtube.com/@SezerSevval) | [![YouTube Channel](https://img.shields.io/badge/YouTube-IMSezer-red?style=flat&logo=youtube)](https://www.youtube.com/@IMSezer) | [![Personal Website](https://img.shields.io/badge/Website-Visit%20My%20Site-blue?style=flat&logo=githubpages)](https://www.imsezer.com/) |
 
-## Some Skills
+## Soooo me in short
 
-<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: left;"><img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="32" alt="Python" style="margin-right: 16px"> <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 16px"> <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" height="32" alt="C" style="margin-right: 16px"> <img src="https://img.shields.io/badge/C%2B%2B-F34B7F?logo=c%2B%2B&logoColor=white" height="32" alt="C++" style="margin-right: 16px"> <img src="https://img.shields.io/badge/MATLAB-0076A8?logo=matlab&logoColor=white" height="32" alt="MATLAB" style="margin-right: 16px"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" height="32" alt="Bootstrap" style="margin-right: 16px"> <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" height="32" alt="Django" style="margin-right: 16px"> <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" height="32" alt="Flask" style="margin-right: 16px"> <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" height="32" alt="FastAPI" style="margin-right: 16px"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="32" alt="MongoDB" style="margin-right: 16px"> <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="32" alt="PostgreSQL" style="margin-right: 16px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL" style="margin-right: 16px"> <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" height="32" alt="SQLite" style="margin-right: 16px"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" height="32" alt="PyTorch" style="margin-right: 16px"></div>
+<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: left;">
+
+  <!-- Roles -->
+  <img src="https://img.shields.io/badge/Software%20Engineer-0A66C2?logo=mediafire&logoColor=white" height="32" alt="Software Engineer">
+  <img src="https://img.shields.io/badge/ML%20Engineer-FF6F00?logo=googlecloud&logoColor=white" height="32" alt="ML Engineer">
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-2E7D32?logo=vercel&logoColor=white" height="32" alt="Full Stack Developer">
+  <img src="https://img.shields.io/badge/Cloud%20Developer-1A73E8?logo=cloudflare&logoColor=white" height="32" alt="Cloud Developer">
+
+</div>
+
